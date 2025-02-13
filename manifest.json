@@ -1,0 +1,10 @@
+{
+  "name": "Productivity Extension",
+  "description": "Extension for productivity",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "frontend/index.html",
+    "default_icon": "icon.jpeg"
+  }
+}
